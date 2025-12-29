@@ -4,6 +4,9 @@
 Exploratory data analysis of a fashion retail dataset focusing on seasonality,
 pricing structure, and material composition.
 
+## Dashboard
+<img width="1408" height="799" alt="ZARA_sales" src="https://github.com/user-attachments/assets/8f9870b8-9e02-44a5-b270-7117ebe31af9" />
+
 ## Key Insights
 - Strong seasonality with peak sales in Autumn, exceeding Summer sales by over 50%, indicating a highly concentrated demand in colder seasons.
 - Jackets dominate sales across all seasons, including Spring and Summer, an unexpected pattern that may indicate pricing distortion or dataset bias.
@@ -18,5 +21,4 @@ pricing structure, and material composition.
 - Power BI
 - Kaggle dataset
 
-## Dashboard
-<img width="1408" height="799" alt="ZARA_sales" src="https://github.com/user-attachments/assets/8f9870b8-9e02-44a5-b270-7117ebe31af9" />
+
